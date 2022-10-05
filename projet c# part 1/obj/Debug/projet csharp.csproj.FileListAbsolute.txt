@@ -1,0 +1,19 @@
+C:\Users\user\source\repos\projet csharp\projet csharp\bin\Debug\projet csharp.exe.config
+C:\Users\user\source\repos\projet csharp\projet csharp\bin\Debug\projet csharp.exe
+C:\Users\user\source\repos\projet csharp\projet csharp\bin\Debug\projet csharp.pdb
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet csharp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet_csharp.Form1.resources
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet_csharp.Properties.Resources.resources
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet csharp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet csharp.exe
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet csharp.pdb
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet_csharp.Form2.resources
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet_csharp.Form3.resources
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet_csharp.Form4.resources
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet_csharp.Form5.resources
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet_csharp.Form6.resources
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet_csharp.Form8.resources
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet_csharp.Form7.resources
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet_csharp.Form9.resources
+C:\Users\user\source\repos\projet csharp\projet csharp\obj\Debug\projet_csharp.Form10.resources
